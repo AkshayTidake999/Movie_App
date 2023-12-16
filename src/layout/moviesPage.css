@@ -1,0 +1,36 @@
+
+
+.movies-container-movies{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+
+.latest-movies-box{
+    margin-left: 10px;
+    margin-bottom: 40px; 
+}
+.movies-page-head{
+    font-size: 43px;
+    -webkit-text-stroke: thin;
+    font-family: serif;
+}
+.loader{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px 0px;
+}
+.upperBox{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+.input-movie-search{
+    height: 42px;
+    width: 266px;
+    font-size: 15px;
+    border-radius: 15px
+}

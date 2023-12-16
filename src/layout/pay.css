@@ -1,0 +1,85 @@
+.top-div{
+    display: flex;
+    padding: 20px;
+}
+.left-div{
+    width: 800px;
+    padding: 10px;
+    text-align: left;
+    border-radius: 10px;
+    margin-left: 20px;
+    border: 1px solid black;
+}
+.promo-input{
+    font-size: 13px;
+    padding: 5px 20px;
+    margin-top: 20px;
+}
+.pay-bal{
+    display: flex;
+    font-weight: bold;
+    padding: 0px 10px;
+    justify-content: space-between;
+}
+.promo-apply{
+    padding: 5px 29px;
+    background: greenyellow;
+    margin-left: 18px;
+    border-radius: 8px;
+}
+.upi-div span{
+    margin: 0px 20px;
+}
+.upi-ver{
+    display: flex;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.please-enter-upi{
+    margin: 0px;
+}
+.what-upi{
+    margin-left: 547px;
+}
+.upi-nput{
+    padding: 5px 12px;
+    margin-left: 35px;
+}
+.verify-btn{
+    padding: 5px 29px;
+    background: greenyellow;
+    margin-left: 18px;
+    border-radius: 8px;
+}
+.net-bank-div{
+    display: flex;
+}
+.net-bank-para{
+    margin: 0px;
+    margin-right: 40px;
+    margin-left: 10px;
+}
+.place-final{
+    width: 300px;
+    margin-left: 50px;
+    height: 300px;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+.place-btn{
+    padding: 8px 59px;
+    background: cadetblue;
+    border-radius: 14px;
+    margin-top: 12px;
+}
+.top-pay-div{
+    display: flex;
+    justify-content: space-between;
+}
+.qrscanner{
+    height: 100px;
+    width: 105px;
+}
+.qr-head{
+    margin-top: -41px;
+}

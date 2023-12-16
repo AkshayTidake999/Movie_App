@@ -1,0 +1,36 @@
+
+.main-details-page{
+    display: flex;
+    flex-wrap: wrap;
+}
+.movies-poster-front-a{
+    height: 531px;
+    width: 465px;
+ 
+}
+.inner-div{
+   
+    display: flex;
+    flex-wrap: wrap;
+    /* align-items: flex-end; */
+    /* justify-content: space-around; */
+}
+.details-home{
+    background-color: black;
+    color: whitesmoke;
+}
+.inner-div p{
+    margin-right: 140px;
+}
+.tag{
+    border: 1px solid whitesmoke;
+    padding: 4px 22px;
+    font-weight: bold;
+    box-shadow: 2px 2px 7px whitesmoke;
+    border-radius: 8px;
+}
+
+.head-movies-name{
+    font-size: 42px;
+    font-weight: bold;
+}

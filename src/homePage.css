@@ -1,0 +1,58 @@
+
+
+body{
+    position: relative;
+}
+.body22 img{
+
+margin: 0; 
+padding: 0;
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat; 
+height: 100vh;
+width: 100%;
+/* top: 0px;
+left: 0px; */
+}
+
+.blank-dash-black{
+    background-color: #3d4242;
+    height: 10px;
+    margin-top: -4px;
+}
+.enjaoy-add-box{
+    display: flex;
+    background-color: black;
+    color: whitesmoke;
+    
+}
+.enjaoy-add-box1{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.addbox1-add1-heading{
+    font-size: 54px;
+    margin-bottom: 7px;
+    font-family: ui-monospace;
+}
+
+.enjaoy-add-box1 p{
+    font-weight: bold;
+    font-size: 20px;
+
+}
+.download-box{
+    width: 400px;
+    /* margin-left: 116px; */
+    border: 1px solid whitesmoke;
+    /* margin-top: 0px; */
+    /* margin-bottom: 17px; */
+    border-radius: 17px;
+    position: relative;
+    left: 112px;
+    bottom: 14px;
+}

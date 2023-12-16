@@ -1,0 +1,80 @@
+
+.main-login-div{
+    width: 400px;
+    margin: -45px auto;
+    background-color: white;
+    border-radius: 62px;
+    border: none;
+    box-shadow: 15px 15px 22px black;
+    padding: 36px;
+}
+.bigger-div{
+    background: #000000;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #434343, #000000);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #434343, #000000); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+        padding : 80px
+}
+.login-head-name{
+    font-size: 36px;
+    font-family: NotoSansMedium,sans-serif;
+    font-weight: bold;
+    margin: 0px;
+    padding: 17px 0px;
+}
+.para-login{
+    font-weight: bold;
+    font-family: NotoSansMedium,sans-serif;
+    color: #4f4f4f;
+}
+.or-radius{
+    border: 1px solid black;
+    border-radius: 50%;
+    width: 22px;
+    padding: 11px;
+    font-weight: bold;
+    position: relative;
+    bottom: 33px;
+    background: white;
+    margin: 0px auto;
+}
+.loginfiled{
+ 
+    display: block;
+    margin: 2px auto;
+    padding: 10px 20px;
+    font-size: 15px;
+    width: 316px;
+    margin-bottom: 25px;
+    border-radius: 13px;
+}
+
+.login-btn{
+    font-size: 17px;
+    padding: 10px 158px;
+    border-radius: 10px;
+    background: #DA22FF;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #9733EE, #DA22FF);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #9733EE, #DA22FF); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    border: none;
+    font-weight: bold;
+}
+.last-div{
+    margin-top: 10px;
+}
+.new-user{
+    font-weight: bold;
+    margin-right: 10px;
+}
+.reg-text{
+    font-weight: bold;
+    color: red;
+}
+.he{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    margin-right: 20px;
+}
+.icon-login-div{
+    margin-top: 21px;
+}
